@@ -1,4 +1,4 @@
-// ESP32 Input Only Pins :- 34, 35, 36, 39 
+// funkyjunky
 int inputPin = 34;
 
 // ESP32 Digital Input Output Pins :- (13-33)
